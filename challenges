@@ -1,0 +1,52 @@
+1. latency issue in jenkins
+2. opensearch memory/cpu utilzation
+3. jenkins node was not creating due to high demand of spot instance
+4. vpc peering
+5. release management
+    jira, slack integration, 
+git strategy in lastbounce
+
+    my learnings in last one year
+
+
+
+
+
+
+
+
+## AWS
+glue
+elasticache
+amazonMQ
+testract
+compute optimiser
+dms [database migration service]
+eks
+direct connect
+cloudformation
+kinesis
+quicksight
+redshift
+emr [elastic map reduce]
+eventbridge
+managed services {amazon managed grafana, apache airflow, prometheous}
+backup
+cloudTrail
+data sync
+sagemaker
+StorageGatway
+stepfunction
+waf
+security Hub
+
+
+
+
+
+
+## other
+confluence
+goose
+disaster recovery
+trivy
